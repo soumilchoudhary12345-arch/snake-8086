@@ -2,3 +2,6 @@ TASM/
 *.lst
 *.map
 *.obj
+*.lst
+*.MAP
+*.OBJ
