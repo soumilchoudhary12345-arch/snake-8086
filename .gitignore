@@ -1,0 +1,4 @@
+TASM/
+*.lst
+*.map
+*.obj
